@@ -1,0 +1,6 @@
+# Allow all web crawlers complete access
+User-agent: *
+Disallow:
+
+# Sitemap location (helps search engines find your sitemap)
+Sitemap: https://nullstudio.netlify.app/sitemap.xml
