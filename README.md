@@ -43,13 +43,11 @@ Then visit [http://localhost:8000](http://localhost:8000) in your browser.
 
 ## 🌐 Deployment
 
-You can deploy the static site easily to platforms like **Vercel**, **Netlify**, or **GitHub Pages**.
+NULL Studio is deployed via **Netlify** at [nullstudio.netlify.app](https://nullstudio.netlify.app).
 
-### Example: Deploy to Vercel
-- **Framework Preset**: Other (Static)
+### Netlify Settings
 - **Build Command**: _None needed for static HTML/CSS/JS_
-- **Output Directory**: `.` (root)
-- **Install Command**: _None_
+- **Publish Directory**: `.` (root)
 
 ---
 
@@ -81,8 +79,12 @@ If you add a `manifest.json` for PWA support, use this structure:
 ---
 
 ## 📸 Screenshot
-<!-- Replace with your actual screenshot -->
-![NULL Studio Screenshot](https://via.placeholder.com/1200x630.png?text=NULL+Studio+Screenshot)
+![Portfolio Screenshot](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1745087100/og-banner_fcrx9j.png)
+
+## 🎥 Walkthrough Video
+[![Portfolio Walkthrough](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1745087100/og-banner_fcrx9j.png)](https://res.cloudinary.com/dcf0cpuqf/video/upload/v1745092437/balanced_video_ndakjd.mp4)
+
+> Click the image above to watch the video!
 
 ---
 
