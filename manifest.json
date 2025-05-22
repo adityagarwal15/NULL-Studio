@@ -3,12 +3,12 @@
   "name": "NULL Studio",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "https://res.cloudinary.com/dcf0cpuqf/image/upload/v1747914442/NULL_STUDIO_LOGO_v3ogn7.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/icon-512.png",
+      "src": "https://res.cloudinary.com/dcf0cpuqf/image/upload/v1747914442/NULL_STUDIO_LOGO_v3ogn7.png",
       "type": "image/png",
       "sizes": "512x512"
     }
