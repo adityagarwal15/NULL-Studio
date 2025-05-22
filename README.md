@@ -79,10 +79,10 @@ If you add a `manifest.json` for PWA support, use this structure:
 ---
 
 ## 📸 Screenshot
-![Portfolio Screenshot](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1745087100/og-banner_fcrx9j.png)
+![Portfolio Screenshot](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744271209/Screenshot_2025-04-10_131627_db2vxk.png)
 
 ## 🎥 Walkthrough Video
-[![Portfolio Walkthrough](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1745087100/og-banner_fcrx9j.png)](https://res.cloudinary.com/dcf0cpuqf/video/upload/v1745092437/balanced_video_ndakjd.mp4)
+[![Portfolio Walkthrough](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744271209/Screenshot_2025-04-10_131627_db2vxk.png)](https://res.cloudinary.com/dcf0cpuqf/video/upload/v1747916363/NULL_STUDIO_VIDEO_sokxev.mp4)
 
 > Click the image above to watch the video!
 
