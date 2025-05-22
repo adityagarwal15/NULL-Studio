@@ -24,32 +24,29 @@ body {
   font-family: var(--font-sans-serif);
 }
 
-/* ===== NULL Studio Custom Scrollbar ===== */
-
-/* WebKit Browsers */
 ::-webkit-scrollbar {
   width: 6px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #ffffff; /* White base to match clean theme */
+  background: #fff;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #000000; /* Pure black for high contrast */
-  border-radius: 10px;
+  background: #000;
+  border-radius: 8px; /* Just a bit of curve */
   transition: background 0.3s ease;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #555555; /* Soft hover effect */
+  background: #555;
 }
 
-/* Firefox */
 html {
   scrollbar-width: thin;
-  scrollbar-color: #000000 #ffffff;
+  scrollbar-color: #000 #fff;
 }
+
 
 
 
